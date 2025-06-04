@@ -3,7 +3,7 @@ I'm currently working on freelance<br>I'm looking to collaborate on startup<br>l
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/emrullahenescan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nocrest)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Ewrnlleh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@https://mstdn.social/@ewrnlleh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:canemrullahwork@gmail.com) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/emrullahenescan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nocrest)  [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@https://mstdn.social/@ewrnlleh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:canemrullahwork@gmail.com) 
 
 
 
