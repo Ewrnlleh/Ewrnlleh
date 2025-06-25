@@ -5,8 +5,6 @@ I'm currently working on freelance<br>I'm looking to collaborate on startup<br>l
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:canemrullahwork@gmail.com) 
 
 
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
